@@ -1,2 +1,10 @@
 # MultiSectionCNN
 Code for the paper "A Lightweight Multi-Section CNN for Lung Nodule Classification and Malignancy Estimation" -- Coming Soon
+
+
+Network Architecture
+--------------------
+
+<p align="center">
+  <img src="assets/deep-arch.png" width="640" height="400" />
+</p>
