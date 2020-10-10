@@ -1,5 +1,8 @@
 # MultiSectionCNN
 Code for the paper "A Lightweight Multi-Section CNN for Lung Nodule Classification and Malignancy Estimation"
+<a href=https://www.researchgate.net/publication/328774789_A_Lightweight_Multi-Section_CNN_for_Lung_Nodule_Classification_and_Malignancy_Estimation>
+  Paper Link
+</a>
 
 
 Network Architecture
