@@ -6,5 +6,5 @@ Network Architecture
 --------------------
 
 <p align="center">
-  <img src="assets/deep-arch.png" width="640" height="400" />
+  <img src="pipeline.png" width="640" height="400" />
 </p>
