@@ -12,6 +12,10 @@ Network Architecture
   <img src="pipeline.png" width="640" height="330" />
 </p>
 
+# Dataset
+Download the LIDC dataset from the link: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI
+Extract the nodule volumes using the PyLIDC tool: https://pylidc.github.io/
+Using the extracted nodule volumes extract the cross-sections using the code provided in the notebook to train the model
 
 # Training
 Code for generating the cross sections is shared in the notebook <br>
